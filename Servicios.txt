@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 SSH: mantenimiento
+=======
+SSH: activo
+>>>>>>> mejora
 DNS: activo
